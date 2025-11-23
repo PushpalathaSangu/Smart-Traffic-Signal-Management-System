@@ -61,8 +61,8 @@ We developed a Streamlit-based web application to demonstrate real-time lane-wis
 
 1. Clone the repository and navigate to the project directory:
    ```sh
-   git clone ai-powered-smart-traffic-management-system
-   cd ai-powered-smart-traffic-management-system/app
+   git clone Smart-Traffic-Signal-Management-System 
+   cd Smart-Traffic-Signal-Management-System/app
    ```
 2. Ensure you have a Python 3.x environment set up.
 3. Install required dependencies:
@@ -109,7 +109,7 @@ We developed a Streamlit-based web application to demonstrate real-time lane-wis
 
 ## TRAINING PROCESS
 
-- Link of the YOLOv9 training notebook: https://github.com/suma-vatturi/ai-powered-smart-traffic-management-system/blob/main/training_notebook.ipynb
+- Link of the YOLOv9 training notebook: https://github.com/PushpalathaSangu/Smart-Traffic-Signal-Management-System/blob/main/training_notebook.ipynb
 
 ### Data Preparation & Annotation
 - Employed an open-source labeling tool (or Roboflow annotation interface).
